@@ -68,7 +68,7 @@ Engineered a live logging subsystem tracking administrative resource grants and 
 
 
 ## Achievements
-Winner | GDG TechSprint 2025 (Led a team of 4 to build a Multimodal AI engine using Google's Gemini API).
+Winner | GDG TechSprint 2025 (Multimodal AI engine using Google's Gemini API).
 
 ## Connect With Me
 Linked.in: https://www.linkedin.com/in/syed-fatema-zohra-6b6014312/
