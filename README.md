@@ -6,17 +6,10 @@ Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru 
 - 💻 Passionate about Software Development
 - 🤖 Interested in AI & Machine Learning, Networking and Cyber Security 
 
-## Skills
-- C
-- c++
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Django
-- MySQL
+## Interest
+Cybersecurity & Network Security
+Software Development
+Artificial Intelligence in Cybersecurity
 
 ## Projects
 ###  AI Mock Interview System | Intelligent Interview Preparation & Assessment Platform
