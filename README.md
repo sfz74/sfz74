@@ -7,9 +7,11 @@ Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru 
 - 🤖 Interested in AI & Machine Learning, Networking and Cyber Security 
 
 ## Interest
-Cybersecurity & Network Security
-Software Development
-Artificial Intelligence in Cybersecurity
+-Cybersecurity & Network Security
+
+-Software Development
+
+-Artificial Intelligence in Cybersecurity
 
 ## Projects
 ###  AI Mock Interview System | Intelligent Interview Preparation & Assessment Platform
@@ -64,6 +66,8 @@ Winner | GDG TechSprint 2025 (Multimodal AI engine using Google's Gemini API).
 
 ## Connect With Me
 Linked.in: https://www.linkedin.com/in/syed-fatema-zohra-6b6014312/
+
 Github: https://github.com/sfz74
+
 Email: fatemaz0774@gmail.com 
 
