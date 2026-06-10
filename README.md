@@ -63,6 +63,9 @@ Engineered a live logging subsystem tracking administrative resource grants and 
 
 ## Achievements
 Winner | GDG TechSprint 2025 (Multimodal AI engine using Google's Gemini API).
+Intern at CodeAlpha
+Certified in Python Internship Trainee
+Certified RDBMS Trainee form IIT Bombay 
 
 ## Connect With Me
 Linked.in: https://www.linkedin.com/in/syed-fatema-zohra-6b6014312/
