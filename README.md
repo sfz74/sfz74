@@ -1,6 +1,6 @@
-# Hi 👋, I'm Syed Fatema Zohra
+# Hi there, I'm Syed Fatema Zohra
 
-Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru Engineering College, MGMU.
+I am a Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru Engineering College, MGMU.
 
 ## About Me
 - 💻 Passionate about Software Development
@@ -12,6 +12,8 @@ Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru 
 -Software Development
 
 -Artificial Intelligence in Cybersecurity
+
+-Learning DevOps Tools
 
 ## Projects
 ###  AI Mock Interview System | Intelligent Interview Preparation & Assessment Platform
