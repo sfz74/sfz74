@@ -1,10 +1,6 @@
 # Hi there, I'm Syed Fatema Zohra
 
-I am a Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru Engineering College, MGMU.
-
-## About Me
-- 💻 Passionate about Software Development
-- 🤖 Interested in AI & Machine Learning, Networking and Cyber Security 
+A Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehru Engineering College, MGMU.
 
 ## Interest
 -Cybersecurity & Network Security
@@ -70,7 +66,10 @@ Intern at CodeAlpha
 
 Certified in Python Internship Trainee
 
-Certified RDBMS Trainee form IIT Bombay 
+Certified RDBMS Trainee from IIT Bombay 
+
+Diploma in Application programming
+
 
 ## Connect With Me
 Linked.in: https://www.linkedin.com/in/syed-fatema-zohra-6b6014312/
