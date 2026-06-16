@@ -9,8 +9,6 @@ A Final Year B.Tech Student in Computer Science & Engineering at Jawaharlal Nehr
 
 -Artificial Intelligence in Cybersecurity
 
--Learning DevOps Tools
-
 ## Projects
 ###  AI Mock Interview System | Intelligent Interview Preparation & Assessment Platform
 
